@@ -83,3 +83,10 @@ body{
   margin: 10;
   top: 12;
 }
+.ssm ul > li{
+  float: left;
+  background-color: rgb(27, 27, 27);
+  padding: 10px;
+  text-align: justify;
+  color: white;
+}
